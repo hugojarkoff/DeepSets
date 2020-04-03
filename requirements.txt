@@ -1,0 +1,9 @@
+torch
+torchvision
+matplotlib
+ipython
+jupyter
+tqdm
+click
+numpy
+tensorboardX
